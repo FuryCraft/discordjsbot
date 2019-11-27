@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet bot discord en node.js",
+  "main": "main.js",
+  "repository": "https://github.com/FuryCraft/discordjsbot.git",
+  "author": "Fury Craft <gaming.tv.79.64@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
